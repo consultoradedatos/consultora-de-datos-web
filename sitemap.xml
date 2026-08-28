@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://consultoradedatos.com/</loc>
   </url>
+
+  <url>
+    <loc>https://consultoradedatos.com/asesoramiento-laboral-empresas.html</loc>
+  </url>
+
+  <url>
+    <loc>https://consultoradedatos.com/control-financiero-empresas.html</loc>
+  </url>
+
+  <url>
+    <loc>https://consultoradedatos.com/control-gestion-empresas.html</loc>
+  </url>
+
+  <url>
+    <loc>https://consultoradedatos.com/calidad-procesos-empresas.html</loc>
+  </url>
+
+  <url>
+    <loc>https://consultoradedatos.com/marketing-redes-empresas.html</loc>
+  </url>
+
+  <url>
+    <loc>https://consultoradedatos.com/ventas-empresas.html</loc>
+  </url>
+
+  <url>
+    <loc>https://consultoradedatos.com/software-empresas.html</loc>
+  </url>
+
+  <url>
+    <loc>https://consultoradedatos.com/automatizacion-procesos-empresas.html</loc>
+  </url>
+
+  <url>
+    <loc>https://consultoradedatos.com/analisis-datos-inteligencia-artificial.html</loc>
+  </url>
+
 </urlset>
